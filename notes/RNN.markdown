@@ -115,7 +115,16 @@ Many to Many (no limitation)
 
 
 
+得到树状的结构，
+词汇一模一样，顺序不同，得到的态度可能截然相反。
+Sequence-to-sequence Auto-encoder适合用于表达文法
+想要得到语义，应该
 
+比如把逗变成vector，water vector，做语音的搜寻，不用做语音辨识，直接扫描所有的声音讯号来做比对，
+
+**Attention-based Model 也用到了memory**
+
+会自动忽略掉无关的事情，会有很大的记忆容量database，中央处理器丢到信息到
 
 
 
