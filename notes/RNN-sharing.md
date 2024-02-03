@@ -1,6 +1,6 @@
 # RNN-sharing
 
-1. slot filing是什么，key slot
+1. slot filling是什么，key slot
 2. 什么情况下需要有记忆的neural network？
 3. RNN的输入顺序发生改变，为什么会影响输出结果？（input 的sequence‘s order）
 4. 在RNN中，hidden layer是怎样的？
