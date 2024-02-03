@@ -1,3 +1,5 @@
+# RNN-2
+
 如何定义loss呢？
 
 y1会放到一个reference vector 中，去算cross entropy 。
